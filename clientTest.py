@@ -27,4 +27,4 @@ class MainClient:
                 client_socket.close()
                 break
 
-MainClient.connect_to_server("127.0.1.1", 8000)
+MainClient.connect_to_server("127.0.1.1", 8003)
